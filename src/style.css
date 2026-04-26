@@ -216,7 +216,7 @@ nav ul li a:hover {
     transition: 0.3s;
 }
 
-.screenshot-container img:hover {
+.screenshot-container .version-conteiner img:hover {
     border-color: var(--primary-color);
     transform: scale(1.05);
 }
